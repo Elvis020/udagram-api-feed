@@ -19,7 +19,7 @@ npm-debug.log*
 .tmp/
 .versions/
 set_env.sh
-env-*
+env-*.yaml
 coverage/
 www/
 node_modules/
